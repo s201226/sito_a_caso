@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="prova" pattern="file[sito_a_caso]:*/" />
+</component>
